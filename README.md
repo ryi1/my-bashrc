@@ -18,8 +18,8 @@ This is my bashrc just clone and work
 
 #Screenshot
 
-[![2022-08-26-00h33-02.png](https://i.postimg.cc/vm7DDYWk/2022-08-26-00h33-02.png)](https://postimg.cc/VS6zVcZW)
+[//]:[![2022-08-26-00h33-02.png](https://i.postimg.cc/vm7DDYWk/2022-08-26-00h33-02.png)](https://postimg.cc/VS6zVcZW)
 
 [![2022-08-26-00h33-43.png](https://i.postimg.cc/cCCJDfVG/2022-08-26-00h33-43.png)](https://postimg.cc/8f8DcfpZ)
 
-[![2022-08-26-00h41-40.png](https://i.postimg.cc/nckTx83g/2022-08-26-00h41-40.png)](https://postimg.cc/F7Y0b65V)
+[//]:[![2022-08-26-00h41-40.png](https://i.postimg.cc/nckTx83g/2022-08-26-00h41-40.png)](https://postimg.cc/F7Y0b65V)
