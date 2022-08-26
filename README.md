@@ -18,11 +18,7 @@ This is my bashrc just clone and work
 
 # Screenshot
 
-[//]:[![2022-08-26-00h33-02.png](https://i.postimg.cc/vm7DDYWk/2022-08-26-00h33-02.png)](https://postimg.cc/VS6zVcZW)
-
 [![2022-08-26-00h33-43.png](https://i.postimg.cc/cCCJDfVG/2022-08-26-00h33-43.png)](https://postimg.cc/8f8DcfpZ)
-
-[//]:[![2022-08-26-00h41-40.png](https://i.postimg.cc/nckTx83g/2022-08-26-00h41-40.png)](https://postimg.cc/F7Y0b65V)
 
 [![68747470733a2f2f692e706f7374696d672e63632f766d37444459576b2f323032322d30382d32362d30306833332d30322e.png](https://i.postimg.cc/k4zkP2yn/68747470733a2f2f692e706f7374696d672e63632f766d37444459576b2f323032322d30382d32362d30306833332d30322e.png)](https://postimg.cc/tZdrhCff)
 
