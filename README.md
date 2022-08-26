@@ -16,7 +16,7 @@ In the integration with git, it presents the branch you are in, both the master 
 
 This is my bashrc just clone and work
 
-#Screenshot
+# Screenshot
 
 [//]:[![2022-08-26-00h33-02.png](https://i.postimg.cc/vm7DDYWk/2022-08-26-00h33-02.png)](https://postimg.cc/VS6zVcZW)
 
